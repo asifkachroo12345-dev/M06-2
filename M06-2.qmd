@@ -1,0 +1,173 @@
+```qmd
+---
+title: "Asif Kachroo Portfolio Website"
+subtitle: "Proposal Presentation"
+author: "Asif Kachroo"
+institute: "IBM 3202, Cal Poly Pomona"
+date: '03-14-2026'
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: Asif Kachroo Portfolio Website
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# My Website Plan
+
+## Purpose
+
+- Create a professional portfolio website
+- Showcase academic and creative work
+- Present projects in a polished way
+- Build an online presence for future opportunities
+
+::: notes
+This opening slide introduces the overall purpose of the website project.
+:::
+
+# Why I Want This Website
+
+- A portfolio can organize my work in one place
+- It can highlight both technical and creative skills
+- It can be shared with professors, recruiters, and internship employers
+- It gives me more control over how I present myself
+
+# Main Pages of the Website
+
+## Planned Pages
+
+- Home Page
+- About Me
+- Projects
+- Dashboard
+- Revealjs Presentation
+- Google Analytics / Data Work
+- Contact Page
+
+# Home Page
+
+## What it will include
+
+- Short personal introduction
+- Professional headshot or visual banner
+- Brief statement about my interests and goals
+- Navigation to the rest of the site
+
+# Projects Page
+
+## Content ideas
+
+- Class projects
+- Data projects
+- Marketing or merchandising work
+- Case studies
+- Visual examples of completed assignments
+
+# Dashboard Page
+
+## Purpose
+
+- Show interactive or static data displays
+- Highlight analytics skills
+- Present charts, summaries, or insights
+- Make the portfolio feel more modern and data-driven
+
+# Revealjs Presentation Page
+
+## Why include this
+
+- Demonstrates presentation skills
+- Shows ability to publish work on the web
+- Adds a professional and interactive element
+- Can support class and group presentation requirements
+
+# Google Analytics / Data Work
+
+## What this section can show
+
+- GA4 assignments
+- Data wrangling examples
+- Reflection work
+- Reports with code and interpretation
+
+# Website Design Goals
+
+## My design priorities
+
+- Clean layout
+- Easy navigation
+- Professional look
+- Clear storytelling
+- Mobile-friendly structure
+
+# Strengths of This Project
+
+::: columns
+::: {.column width="50%"}
+## Professional Strengths
+
+- Organized presentation of work
+- Better online visibility
+- Stronger personal brand
+:::
+
+::: {.column width="50%"}
+## Skill-Building Strengths
+
+- Improves Quarto skills
+- Improves web publishing skills
+- Improves presentation design
+:::
+:::
+
+# Challenges
+
+- Learning Revealjs formatting
+- Publishing everything correctly
+- Balancing design with content
+- Making each page feel connected
+
+# What I Learned
+
+## Main takeaways
+
+- Quarto can be used for both reports and slides
+- Revealjs is powerful for web presentations
+- Publishing work online makes projects feel more professional
+- Building a website requires both structure and storytelling
+
+# Next Steps
+
+1. Finalize website structure
+2. Build or refine individual pages
+3. Publish presentation online
+4. Continue adding class projects and portfolio content
+
+# Published Link
+
+## URL
+
+[Paste your published presentation link here](https://your-presentation-link-here.com)
+
+# Thank You
+
+## Questions?
